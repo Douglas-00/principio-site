@@ -2,7 +2,7 @@ export const site = {
   nome: "Princípio Impresso",
   instagram: "https://www.instagram.com/principioimpresso/",
   instagramUser: "@principioimpresso",
-  whatsapp: "5511923327745",
+  whatsapp: "5511955305242",
   cidade: "São Paulo, SP",
   email: "principioimpresso@gmail.com",
   logo: "/images/logo.jpeg",
